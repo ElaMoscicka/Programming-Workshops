@@ -1,6 +1,7 @@
 # Programming-Workshops
 List of programming workshops I've attended:
    
+* 1 day Advanced React Workshop by WarsawJS (26.05.2019)  
 * 1 day Web App Performance Workshop by WarsawJS (17.03.2019)    
 * 1 day JavaScript Workshop by WarsawJS (18.11.2018)    
 * 1 day React Workshop by WarsawJS (07.10.2018)  
